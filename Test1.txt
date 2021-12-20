@@ -1,0 +1,3 @@
+Hello World!
+
+This is a test to install & run GIT on my Windows Machine!
